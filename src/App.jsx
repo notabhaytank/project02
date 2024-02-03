@@ -16,7 +16,7 @@ export default function App() {
                         </div>
                         <div id="details ">
                             <h2 className='text-lg  font-bold'>Details</h2>
-                            <p className='text-[16px] md:text-xl md:w-4/5 pt-2' >Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore exercitationem impedit laborum omnis optio quasi sunt ut? Blanditiis dignissimos dolor eaque fugit illum libero maiores mollitia nam nostrum, quam vel.</p>
+                            <p className='text-[16px] text-gray-600 md:text-xl md:w-4/5 pt-2' >Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore exercitationem impedit laborum omnis optio quasi sunt ut? Blanditiis dignissimos dolor eaque fugit illum libero maiores mollitia nam nostrum, quam vel.</p>
                         </div>
                     </div>
                 </section>
