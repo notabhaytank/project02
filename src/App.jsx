@@ -2,7 +2,7 @@ import 'remixicon/fonts/remixicon.css'
 export default function App() {
     return (
         <>
-            <section className='h-screen px-10 md:px-52 gap-12 md:pt-40 py-32 pb-16 flex flex-col md:flex-row'>
+            <section className='h-screen px-10 md:px-44 gap-12 md:pt-40 py-32 pb-16 flex flex-col md:flex-row'>
                 <section className='md:w-1/2 gap-10  md:p-10 flex flex-col justify-between ' >
                     <h1 className='md:text-[150px] text-6xl  tracking-tight font-serif md:leading-[8rem]'>a cotton weave.</h1>
                     <div className='gap-8 flex flex-col' >
