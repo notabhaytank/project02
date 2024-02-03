@@ -4,7 +4,7 @@ export default function App() {
         <>
             <section className='h-screen px-10 md:px-52 gap-12 md:pt-40 py-32 pb-16 flex flex-col md:flex-row'>
                 <section className='md:w-1/2 gap-10  md:p-10 flex flex-col justify-between ' >
-                    <h1 className='md:text-[150px] text-7xl  tracking-tight font-serif md:leading-[8rem]'>a cotton weave.</h1>
+                    <h1 className='md:text-[150px] text-6xl  tracking-tight font-serif md:leading-[8rem]'>a cotton weave.</h1>
                     <div className='gap-8 flex flex-col' >
                         <div id="colors" className='border border-gray-800 px-4   flex items-center justify-between rounded-full w-fit gap-2 md:min-w-32 py-1  h-fit'>
                             <p className='text-lg'>colors</p>
